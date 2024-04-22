@@ -1,0 +1,6 @@
+# 3  - Crie um algoritmo em que o usuário informe a idade e exiba a idade na tela (terminal) quando executado.
+
+
+suaidade= input(f'Digite a sua idade:')
+
+print(f'{suaidade}')

@@ -1,0 +1,9 @@
+# 4  - Crie um algoritmo em que o usuário informe dois números inteiros (n1 e n2) e exiba os números na tela (terminal) quando executado.
+
+
+n1 = input('Informa o valor do número 1:')
+n2 = input('Informa o valor do número 2:')
+
+
+print(n1)
+print(n2)
